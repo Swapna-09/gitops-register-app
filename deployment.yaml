@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: 2swapna/register-app-pipeline:1.0.0-13
+          image: 2swapna/register-app-pipeline:1.0.0-14
           ports:
             - containerPort: 8080
