@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: register-app:1.0.0-1
+  name: register-app-1-0-0-1
   namespace: default
 spec:
   replicas: 2
