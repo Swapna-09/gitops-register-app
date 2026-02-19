@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: register-app:1.0.0-1
-          image: ashfaque9x/register-app:1.0.0-1
+          image: 2swapna/register-app:1.0.0-3
           ports:
             - containerPort: 8080
           # Empty resources map is safer than 'null'
